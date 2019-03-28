@@ -9,7 +9,7 @@ driver.find_element_by_name("userName").send_keys("mercury")
 driver.find_element_by_name("password").send_keys("mercury")
 driver.find_element_by_name("login").click()
 
-driver.find_element_by_link_text("SING-OFF").click()
+driver.find_element_by_link_text("SIGN-OFF").click()
 
 
 driver.close()
