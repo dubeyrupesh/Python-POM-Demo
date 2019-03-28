@@ -5,9 +5,9 @@ We will use these tests for Page Object Model Exercise
 Prerequisite:
 ============
 
- ```Pip install selenium```
+ ```pip3 install selenium```
 
-```Pip install html-testRunner``` 
+```pip3 install html-testRunner``` 
 
 ```Please also download chromedriver and add it to the PATH variable (if you are on windows)```
 
